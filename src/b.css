@@ -56,6 +56,10 @@
     border-color: var(--b2);
 }
 
+#wcb.wcb-d #wcb_g {
+    border-color: var(--b2);
+}
+
 #wcb.wcb-d #wcb_2 {
     color: #fff;
 }
