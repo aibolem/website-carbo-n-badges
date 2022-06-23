@@ -9,7 +9,7 @@ Adding the badge to your site is as simple as inserting the following lines into
 
 ```html
 <div id="wcb" class="carbonbadge"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" integrity="sha384-5Sivu2UajgUNg6Sxu3UHsZKjZlq9v6/slTAhA0/s21XcfNcrkSZRRO9K/0Cg14iP" crossorigin="anonymous" defer></script>
 ```
 
 ![Badge - Light Version](./public/badge-light.png "Badge - Light Version")
@@ -18,7 +18,7 @@ If you need the badge to work on a dark background, add the class, `.wcb-d` to t
 
 ```html
 <div id="wcb" class="carbonbadge wcb-d"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" integrity="sha384-5Sivu2UajgUNg6Sxu3UHsZKjZlq9v6/slTAhA0/s21XcfNcrkSZRRO9K/0Cg14iP" crossorigin="anonymous" defer></script>
 ```
 
 ![Badge - Dark Version](./public/badge-dark.png "Badge - Dark Version")
